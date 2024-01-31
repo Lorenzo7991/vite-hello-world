@@ -6,5 +6,6 @@ export default {
   
 
 <template>
-    <h1 class="text-center mt-5">La mia prima app con Vite!</h1>
+    <h1 class="text-center display-1 fw-bold text-white">La mia prima app con Vite!</h1>
 </template>
+
